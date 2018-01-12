@@ -20,7 +20,7 @@ description: A virtual proof that name is awesome!
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/logoSquare.jpg"
 
 # List of links in the navigation bar
 navbar-links:
@@ -108,6 +108,7 @@ prose:
     - /css
     - /img
     - /js
+    - /.git
   metadata:
     _posts:
       - name: "layout"
