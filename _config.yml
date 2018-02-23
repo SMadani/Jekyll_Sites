@@ -26,10 +26,7 @@ avatar: "/img/logoSquare.jpg"
 navbar-links:
   Home: ""
   About: "about"
-  Upcoming: "upcoming"
-  Previous: "previous"
   Archive: "archive"
-
   
 # --- Footer options --- #
 
