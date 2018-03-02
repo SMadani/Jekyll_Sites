@@ -90,6 +90,7 @@ exclude:
   - README.md
   - CNAME
   - Vagrantfile
+  - material/Videos
 
 # prose.io config
 prose:
